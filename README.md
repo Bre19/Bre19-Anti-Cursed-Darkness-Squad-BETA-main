@@ -35,8 +35,4 @@ Thanks to MHProDev, Leeon123, R00tS3c, emp001, cocorisss  and wachirachoomsiri f
     
     When proxies banned, then renew it by "proxy-crawl" command.
     
-    We recommend using 16gb ram , 1-10 GBPS machine to have the good power! 
-
-
-# Updates
-https://scorpion-hackz.com/acds/update-log.txt
+    We recommend using 16gb ram , 1-10 GBPS machine to have the good power!
