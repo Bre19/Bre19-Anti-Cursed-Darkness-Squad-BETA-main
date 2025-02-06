@@ -9,7 +9,6 @@ Thanks to MHProDev, Leeon123, R00tS3c, emp001, cocorisss  and wachirachoomsiri f
 # Methods
 ![image](https://user-images.githubusercontent.com/48758770/125307020-fba82180-e32f-11eb-84a9-60cd852aacc1.png)
 <br><br>
-Thanks to MHProDev, Leeon123, R00tS3c, emp001, cocorisss  and wachirachoomsiri for their methods. This tool is an one-in-all DDOS Panel with the best methods. Only the panel it self, and the functionality is coded by z3ntl3 root. Others are not part of our code!
 
 
 # Installation
